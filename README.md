@@ -22,3 +22,10 @@ This project was built for learning and improving productivity tools in a single
 
 📌 Future Plans
 Theme customization (light/dark/auto)
+
+Run this project 
+  Terminal 
+    npm install
+  then 
+    npm start 
+    
