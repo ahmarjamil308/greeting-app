@@ -21,7 +21,4 @@ APIs: OpenWeatherMap, Quotable.io
 This project was built for learning and improving productivity tools in a single clean, mobile-friendly app.
 
 📌 Future Plans
-User authentication & profiles
-Persistent cloud storage (Firebase)
 Theme customization (light/dark/auto)
-Calendar + Reminders
